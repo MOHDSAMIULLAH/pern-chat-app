@@ -2,6 +2,10 @@
 
 This is a real-time chat application built using the PERN stack (PostgreSQL, Express, React, Node.js), TypeScript, Socket.IO, Prisma, and TailwindCSS. It features real-time messaging, JWT-based authentication, online user status management, and a modern UI design with glassmorphism effects.
 
+## Live Link: https://pern-chat-app-master-qq4p.onrender.com/
+
+![alt text](<Screenshot from 2024-12-07 12-14-11.png>)
+
 ## Features
 
 - **Real-time Messaging:** Seamless communication using Socket.IO.
