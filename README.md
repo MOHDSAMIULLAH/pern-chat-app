@@ -1,20 +1,31 @@
-# PERN Stack Project: Build a Real Time Chat App | Postgres, TypeScript, Prisma
+# PERN Stack Project: Real Time Chat App | Postgres, TypeScript, Prisma
 
-![Demo App](https://i.ibb.co/RC4pW36/Group-124.png)
+This is a real-time chat application built using the PERN stack (PostgreSQL, Express, React, Node.js), TypeScript, Socket.IO, Prisma, and TailwindCSS. It features real-time messaging, JWT-based authentication, online user status management, and a modern UI design with glassmorphism effects.
 
-[Video Tutorial on Youtube](https://youtu.be/vL24eiwAG_g)
+## Features
 
-Some Features:
+- **Real-time Messaging:** Seamless communication using Socket.IO.
+- **JWT Authentication & Authorization:** Secure user authentication and login.
+- **Online User Status:** Manage and display online/offline user status in real-time.
+- **State Management:** Global state management using Zustand.
+- **Error Handling:** Comprehensive error handling on both the server and client sides.
+- **UX/UI:** Audio alerts for incoming messages, shaking effect on new messages, auto-scrolling to the bottom for new content, and a glassmorphism effect for the chat background.
+- **Deployment:** Deployed the app for free using Render.
 
--   🌟 Tech stack: PERN + TypeScript + Socket.io + Prisma + TailwindCSS
--   🎃 Authentication && Authorization with JWT
--   👾 Real-time messaging with Socket.io
--   🚀 Online user status (Socket.io and React Context)
--   👌 Global state management with Zustand
--   🐞 Error handling both on the server and on the client
--   👻 TypeScript Tips and Tricks
--   ⭐ At the end Deployment like a pro for FREE!
--   ⏳ And much more!
+## Tech Stack
+
+- **Frontend:** React, TypeScript, TailwindCSS
+- **Backend:** Node.js, Express, PostgreSQL, Prisma, Socket.IO
+- **Authentication:** JWT
+- **State Management:** Zustand
+- **Deployment:** Deployed on free hosting platforms
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- PostgreSQL
 
 # Run Locally
 
@@ -44,5 +55,3 @@ npm run build
 ```shell
 npm start
 ```
-
-### Like and Subscribe 🌟
